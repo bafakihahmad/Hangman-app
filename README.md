@@ -1,1 +1,1 @@
-Hangman app utilizing the Java Swing package for the graphical user interface (GUI) and designed it following Object-Oriented Programming (OOP) principles to ensure a clean, modular, and maintainable codebase.
+Hangman app utilizing the Java Swing package for the graphical user interface (GUI) and designed following Object-Oriented Programming (OOP) principles to ensure a clean, modular, and maintainable codebase.
